@@ -60,7 +60,8 @@ I am a multi-disciplinary technologist bridgeing the gap between **IT Infrastruc
 | **Education** | B.A. Sociology & English Minor (San Diego State University) + B.S. Cybersecurity and Information Assurance (WGU)*currently enrolled* |
 ---
 ### 📈 My GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=StormKing777&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=StormKing777&show_icons=true&theme=radical)
+
 ## 🔦 Project Spotlights
 
 ### 🏗️ [SaaS Project Name] - Still Loading... 🤫🤫🤫
