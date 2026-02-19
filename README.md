@@ -1,6 +1,24 @@
 # Hi, I'm De'Saan P. Hardwick 👋
 ### Cybersecurity  | IT Professional | Software Engineer
+### 🛠️ Tech Stack & Tools
 
+**Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+
+**Development & DevOps**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+
+**Monitoring & Data**
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ---
 
 ## 👨‍💻 About Me
@@ -35,30 +53,25 @@ I am a multi-disciplinary technologist bridgeing the gap between **IT Infrastruc
 | **Data & Networking** | SQL (DB Management/Retrieval), Computer Networking |
 | **Cybersecurity** | Information Assurance, SOC Fundamentals, Security Hardening |
 | **Education** | B.S. Cybersecurity and Information Assurance (WGU) |
-
-### 🛠️ Tech Stack & Tools
-
-**Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-
-**Development & DevOps**
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-
-**Monitoring & Data**
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
 ---
 ### 📈 My GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=StormKing777&show_icons=true&theme=tokyonight)
+## 🔦 Project Spotlights
+
+### 🏗️ [SaaS Project Name] - Full-Stack Cloud Application
+*A scalable SaaS platform focused on user engagement and data-driven insights.*
+
+* **Architecture:** Built with a **TypeScript** frontend and a **Python** backend for high-performance data processing.
+* **Infrastructure:** Fully automated using **Terraform** for IaaS (Infrastructure as Service) on **AWS/Azure**.
+* **DevOps Pipeline:** Managed via **Jenkins** for CI/CD, with applications containerized using **Docker** and orchestrated by **Kubernetes**.
+* **Observability:** Integrated **Prometheus** and **Grafana** to monitor cluster health and application metrics in real-time.
+
+### 🎮 [Indy Game Name] - Logic-Driven Browser Experience
+*An independent game title exploring complex state management and interactive physics.*
+
+* **Engine:** Developed using **Vanilla TypeScript** to maximize performance and browser compatibility.
+* **Data Persistence:** Implemented **SQL** for secure player data storage, retrieval, and progress tracking.
+* **Deployment:** Automated deployment pipelines to ensure rapid iteration and seamless updates.
 ---
 ### 🚀 Technical Focus
 * **Automation:** Using **Terraform** and **Ansible** to build and configure cloud infrastructure.
