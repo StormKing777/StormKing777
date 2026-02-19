@@ -52,13 +52,13 @@ I am a multi-disciplinary technologist bridgeing the gap between **IT Infrastruc
 | **Monitoring** | Prometheus (Metrics), Grafana (Visualization) |
 | **Data & Networking** | SQL (DB Management/Retrieval), Computer Networking |
 | **Cybersecurity** | Information Assurance, SOC Fundamentals, Security Hardening |
-| **Education** | B.S. Cybersecurity and Information Assurance (WGU) |
+| **Education** | B.A. Sociology w/English Minor (San Diego State University) & B.S. Cybersecurity and Information Assurance (WGU)*currently enrolled* |
 ---
 ### 📈 My GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=StormKing777&show_icons=true&theme=tokyonight)
 ## 🔦 Project Spotlights
 
-### 🏗️ [SaaS Project Name] - Full-Stack Cloud Application
+### 🏗️ [SaaS Project Name] - Still Loading... 🤫🤫🤫
 *A scalable SaaS platform focused on user engagement and data-driven insights.*
 
 * **Architecture:** Built with a **TypeScript** frontend and a **Python** backend for high-performance data processing.
@@ -66,8 +66,8 @@ I am a multi-disciplinary technologist bridgeing the gap between **IT Infrastruc
 * **DevOps Pipeline:** Managed via **Jenkins** for CI/CD, with applications containerized using **Docker** and orchestrated by **Kubernetes**.
 * **Observability:** Integrated **Prometheus** and **Grafana** to monitor cluster health and application metrics in real-time.
 
-### 🎮 [Indy Game Name] - Logic-Driven Browser Experience
-*An independent game title exploring complex state management and interactive physics.*
+### 🎮 [Indy Game Name] - Still Loading...🤫🤫🤫
+*An independent game exploring complex state management and interactive physics.*
 
 * **Engine:** Developed using **Vanilla TypeScript** to maximize performance and browser compatibility.
 * **Data Persistence:** Implemented **SQL** for secure player data storage, retrieval, and progress tracking.
@@ -78,21 +78,6 @@ I am a multi-disciplinary technologist bridgeing the gap between **IT Infrastruc
 * **Containers:** Packaging apps with **Docker** and managing them at scale with **Kubernetes**.
 * **Observability:** Building dashboards in **Grafana** using **Prometheus** metrics to ensure system health.
 * **Pipelines:** Automating the software lifecycle from code to cloud using **Jenkins**.
----
-
-## 🚀 Featured Projects
-
-### [Interview Prep Tool](https://your-github-username.github.io/interview-prep-tool/)
-* **Role:** Lead Developer
-* **Focus:** Core Web Fundamentals & TypeScript Logic.
-* **Tech:** HTML, CSS, Vanilla TypeScript.
-* *Built to demonstrate frontend architecture and responsive mobile design.*
-
-### [osTicket Deployment & Configuration](LINK_TO_REPO)
-* **Role:** IT Specialist
-* **Focus:** Help Desk Ticketing Systems & Prerequisites.
-* *Configured end-to-end ticketing workflows and post-installation security.*
-
 ---
 
 ## 📫 Connect with me:
