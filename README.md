@@ -56,7 +56,7 @@ I am a multi-disciplinary technologist bridgeing the gap between **IT Infrastruc
 | **Containers** | Docker (Packaging), Kubernetes (Orchestration) |
 | **Monitoring** | Prometheus (Metrics), Grafana (Visualization) |
 | **Data & Networking** | SQL (DB Management/Retrieval), Computer Networking |
-| **Cybersecurity** | Information Assurance, SOC Fundamentals, Security Hardening |
+| **Cybersecurity** | Threat Hunting, SecOps, Tenable Vuln. Mgmt., Incident Response |
 | **Education** | B.A. Sociology & English Minor (San Diego State University) + B.S. Cybersecurity and Information Assurance (WGU)*currently enrolled* |
 ---
 ### 📈 My GitHub Stats
