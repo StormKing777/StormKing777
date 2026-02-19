@@ -52,7 +52,8 @@ I am a multi-disciplinary technologist bridgeing the gap between **IT Infrastruc
 | **Monitoring** | Prometheus (Metrics), Grafana (Visualization) |
 | **Data & Networking** | SQL (DB Management/Retrieval), Computer Networking |
 | **Cybersecurity** | Information Assurance, SOC Fundamentals, Security Hardening |
-| **Education** | B.A. Sociology w/English Minor (San Diego State University) & B.S. Cybersecurity and Information Assurance (WGU)*currently enrolled* |
+| **Education** | B.A. Sociology & English Minor (San Diego State University) 
+B.S. Cybersecurity and Information Assurance (WGU)*currently enrolled* |
 ---
 ### 📈 My GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=StormKing777&show_icons=true&theme=tokyonight)
