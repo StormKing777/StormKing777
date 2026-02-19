@@ -81,7 +81,7 @@ I am a multi-disciplinary technologist bridgeing the gap between **IT Infrastruc
 ---
 
 ## 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/de-saan-hardwick/) | [Portfolio]([Loading...]) | [Email](desaan@me.com)
+[LinkedIn](https://www.linkedin.com/in/de-saan-hardwick/) | [Portfolio]([Loading...]) | [Email : desaan@me.com
 
 <!--
 **StormKing777/StormKing777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
