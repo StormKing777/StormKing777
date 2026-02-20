@@ -1,4 +1,4 @@
-# Hi, I'm De'Saan P. Hardwick 👋
+# Hi, I'm De'Saan P. Hardwick 👋 (Tech-Hybrid)
 ### Cybersecurity | IT Professional | Software Engineer
 
 ---
