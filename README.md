@@ -1,5 +1,5 @@
 # Hi, I'm De'Saan P. Hardwick 👋
-### Cybersecurity | IT Semi-Professional | Software Engineer
+### Cybersecurity | IT Professional | Software Engineer
 
 ---
 
