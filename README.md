@@ -1,5 +1,15 @@
 # Hi, I'm De'Saan P. Hardwick 👋
 ### Cybersecurity  | IT Professional | Software Engineer
+# 🛠️ Technical Projects
+
+* **[Active Directory & Azure Network Security](https://github.com/StormKing777/azure-ad-project)**
+    * *Azure, Active Directory, NSGs* — Implementing enterprise-level identity management and network protocol hardening.
+* **[osTicket Lifecycle Management](https://github.com/StormKing777/osticket-project)**
+    * *osTicket, MySQL, IIS* — End-to-end help desk implementation covering installation to ticket resolution workflows.
+* **[Cloud Infrastructure & DevOps Pipeline](https://github.com/StormKing777/devops-pipeline)**
+    * *Terraform, AWS, Docker, Jenkins* — Automating the deployment of secure, containerized applications using Infrastructure as Code.
+* **[Full-Stack Observability Dashboard](https://github.com/StormKing777/monitoring-project)**
+    * *Prometheus, Grafana, Kubernetes* — Real-time monitoring of application metrics and cluster health.
 ### 🛠️ Tech Stack & Tools
 
 **Cloud & Infrastructure**
