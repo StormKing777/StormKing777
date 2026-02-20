@@ -1,8 +1,6 @@
 # Hi, I'm De'Saan P. Hardwick 👋
 ### Cybersecurity | IT Professional | Software Engineer
 
----
-
 ## 🛠️ Tech Stack & Project Evidence
 
 | Category | Tools & Technologies | Project Proof (URL) |
@@ -23,17 +21,6 @@
 - ⚡ **Fun fact:** Held the **World Record in the Long Jump** as a 9-year-old (2002–2016).
 
 ---
-
-## 📈 My GitHub Stats
-![De'Saan's Stats](https://github-readme-stats.vercel.app/api?username=StormKing777&show_icons=true&theme=tokyonight)
-
----
-
-## 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/de-saan-hardwick/) | [Portfolio]([Loading...]) | Email : desaan@me.com
-
----
-
 ## 🎓 Education
 
 ### ![SDSU Aztecs](https://img.shields.io/badge/SDSU-Aztecs-%23A6192E?style=flat-square&logo=target) **San Diego State University**
@@ -45,6 +32,18 @@
 * 🔵 Mastering **Threat Hunting, SecOps, and Incident Response** through hands-on labs and certifications.
 
 ---
+
+## 📈 My GitHub Stats
+![De'Saan's Stats](https://github-readme-stats.vercel.app/api?username=StormKing777&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect with me:
+[LinkedIn](https://www.linkedin.com/in/de-saan-hardwick/) | [Portfolio]([Loading...]) | Email : desaan@me.com
+
+---
+
+
 <!--
 **StormKing777/StormKing777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
