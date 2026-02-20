@@ -33,8 +33,17 @@
 [LinkedIn](https://www.linkedin.com/in/de-saan-hardwick/) | [Portfolio]([Loading...]) | Email : desaan@me.com
 
 ---
-| **Cybersecurity** | Threat Hunting, SecOps, Tenable Vuln. Mgmt., Incident Response |
-| **Education** | B.A. Sociology & English Minor (San Diego State University) + B.S. Cybersecurity and Information Assurance (WGU)*currently enrolled* |
+
+## 🎓 Education
+
+### ![SDSU Aztecs](https://img.shields.io/badge/SDSU-Aztecs-%23A6192E?style=flat-square&logo=target) **San Diego State University**
+* **B.A. Sociology** | *Minor in English*
+* 🔴 Built a foundation in behavioral analysis and communication, essential for Socio-Technical security.
+
+### ![WGU Owl](https://img.shields.io/badge/WGU-Night_Owls-%23002F51?style=flat-square&logo=owl) **Western Governors University**
+* **B.S. Cybersecurity and Information Assurance** | *Currently Enrolled*
+* 🔵 Mastering **Threat Hunting, SecOps, and Incident Response** through hands-on labs and certifications.
+
 ---
 <!--
 **StormKing777/StormKing777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
