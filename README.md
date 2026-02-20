@@ -40,7 +40,7 @@
 ---
 
 ## 📫 Connect with me:
-[LinkedIn](https://www.linkedin.com/in/de-saan-hardwick/) | [Portfolio]([Loading...]) | Email : desaan@me.com
+[LinkedIn](https://www.linkedin.com/in/de-saan-hardwick/) | [Portfolio]([Loading...]) | desaan@me.com
 
 ---
 
