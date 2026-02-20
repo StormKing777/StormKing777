@@ -32,16 +32,6 @@
 [LinkedIn](https://www.linkedin.com/in/de-saan-hardwick/) | [Portfolio]([Loading...]) | Email : desaan@me.com
 
 ---
-
-## 🛠️ Skills & Technologies
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Software Engineering** | TypeScript, JavaScript, Python Scripting, HTML5, CSS3, Vite |
-| **Cloud & IaC** | AWS, Azure, Terraform (Infrastructure as Code) |
-| **DevOps & CI/CD** | Jenkins (Automation/CI/CD), Ansible (Configuration Management) |
-| **Containers** | Docker (Packaging), Kubernetes (Orchestration) |
-| **Monitoring** | Prometheus (Metrics), Grafana (Visualization) |
-| **Data & Networking** | SQL (DB Management/Retrieval), Computer Networking |
 | **Cybersecurity** | Threat Hunting, SecOps, Tenable Vuln. Mgmt., Incident Response |
 | **Education** | B.A. Sociology & English Minor (San Diego State University) + B.S. Cybersecurity and Information Assurance (WGU)*currently enrolled* |
 ---
