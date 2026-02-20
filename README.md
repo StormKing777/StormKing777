@@ -1,36 +1,13 @@
 # Hi, I'm De'Saan P. Hardwick 👋
 ### Cybersecurity  | IT Professional | Software Engineer
-# 🛠️ Technical Projects
+## 🛠️ Tech Stack & Project Evidence
 
-* **[Active Directory & Azure Network Security](https://github.com/StormKing777/azure-ad-project)**
-    * *Azure, Active Directory, NSGs* — Implementing enterprise-level identity management and network protocol hardening.
-* **[osTicket Lifecycle Management](https://github.com/StormKing777/osticket-project)**
-    * *osTicket, MySQL, IIS* — End-to-end help desk implementation covering installation to ticket resolution workflows.
-* **[Cloud Infrastructure & DevOps Pipeline](https://github.com/StormKing777/devops-pipeline)**
-    * *Terraform, AWS, Docker, Jenkins* — Automating the deployment of secure, containerized applications using Infrastructure as Code.
-* **[Full-Stack Observability Dashboard](https://github.com/StormKing777/monitoring-project)**
-    * *Prometheus, Grafana, Kubernetes* — Real-time monitoring of application metrics and cluster health.
-### 🛠️ Tech Stack & Tools
-
-**Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
-
-**Development & DevOps**
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-
-**Monitoring & Data**
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
----
-
+| Category | Tools & Technologies | Project Proof (URL) |
+| :--- | :--- | :--- |
+| **Cloud & Infrastructure** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) | [Cloud Infrastructure & DevOps Pipeline](https://github.com/StormKing777/devops-pipeline) |
+| **Development & DevOps** | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white) | [Interview Prep Tool](https://github.com/StormKing777/interview-prep-tool) |
+| **Monitoring & Data** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) | [Full-Stack Observability Dashboard](https://github.com/StormKing777/monitoring-project) |
+| **IT & Cybersecurity** | ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Security](https://img.shields.io/badge/Cybersecurity-Red?style=for-the-badge&logo=codetriage&logoColor=white) | [Active Directory & Network Security](https://github.com/StormKing777/azure-ad-project) <br> [osTicket Lifecycle Management](https://github.com/StormKing777/osticket-project) |
 ## 👨‍💻 About Me
 I am a multi-disciplinary technologist bridgeing the gap between **IT Infrastructure**, **Cybersecurity**, and **Software Engineering**. My focus is on building secure, scalable applications while maintaining high standards for system integrity.
 
