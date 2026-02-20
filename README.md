@@ -35,7 +35,7 @@
 ---
 
 ## 📈 My GitHub Stats
-![StormKing777 GitHub stats](https://github-readme-stats.vercel.app/api?username=StormKing777&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=StormKing777&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
 ---
 
