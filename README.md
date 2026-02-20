@@ -35,7 +35,7 @@
 ---
 
 ## 📈 My GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=StormKing777&show_icons=true&theme=radical)
+![StormKing777 GitHub stats](https://github-readme-stats.vercel.app/api?username=StormKing777&show_icons=true&theme=radical)
 
 ---
 
