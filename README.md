@@ -26,9 +26,9 @@
 ---
 
 ## 👨‍💻 About Me
-- 🔭 **Working on:** SaaS development, indie game logic, and independent cloud security projects.
+- 🔭 **Working on:** SaaS development, indie game dev, and independent cloud security that protects the game projects.
 - 🌱 **Learning:** Actively gaining industry certs while completing my WGU degree.
-- 🤔 **Looking for:** Entry-level roles in **Cloud Support, SOC Analysis, and IT Support**.
+- 🤔 **Looking for:** Entry-level roles in **Cloud Support, SOC Analyst, and IT Support**.
 - 💬 **Ask me about:** My football career and my transition into the tech industry.
 - ⚡ **Fun fact:** Held the **World Record in the Long Jump** as a 9-year-old (2002–2016).
 
